@@ -50,6 +50,39 @@ Each component:
 
 ---
 
+## 🧠 🎓 OOP Concepts Demonstrated
+
+- 1. Abstraction
+
+- converted real-world ideas into code:
+
+- Emotion
+- Habit
+- Decision
+  
+- 2. Inheritance
+- LifeComponent → Emotion, Habit, Decision
+
+- 3. Polymorphism
+impact()
+
+- Each class calculates impact differently.
+
+- 4. Encapsulation
+
+- Each object controls its own data:
+
+- intensity
+- consistency
+- risk
+
+- 5. Composition
+- LifeSystem has many objects
+
+- 6. Dynamic Interaction (Advanced)
+- Objects influence each other at runtime.
+
+
 ### 😊 Emotion
 - Represents emotional states (e.g., stress, happiness)  
 - Attribute: `intensity (0–10)`  

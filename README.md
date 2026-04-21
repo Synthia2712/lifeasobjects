@@ -128,6 +128,9 @@ Each component:
 
 ---
 
+## How to Run
+- save all the uploaded files in a project folder called lifeasobjects and then open file:///C:/lifeasobjects/src/main/resources/static/index.html 
+
 ## 🛠️ Tech Stack
 
 - **Backend:** Java (Spring Boot)  
